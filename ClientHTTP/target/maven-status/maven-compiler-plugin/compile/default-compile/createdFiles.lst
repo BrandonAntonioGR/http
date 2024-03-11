@@ -1,0 +1,8 @@
+com\digitalfinance\clienthttp\clientes\PostNewRecord.class
+com\digitalfinance\clienthttp\ClientHTTP.class
+encriptador\encriptadorSha256.class
+encriptador\ObjetoJson.class
+com\digitalfinance\clienthttp\clientes\ClineteUnirest.class
+com\digitalfinance\clienthttp\clientes\PostTestApi.class
+encriptador\FechaActual.class
+encriptador\JsonArrayJson.class
